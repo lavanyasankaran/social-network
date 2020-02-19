@@ -1,0 +1,7 @@
+{
+
+    "mongoURI":"mongodb+srv://lavanya:alliswell123*@devconnector-ilhur.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClienId":"7c0b31e3e48193d01a55",
+    "githubSecret":"8b14b929c181f8a3561dfe0737135e787f111aa4"
+}
